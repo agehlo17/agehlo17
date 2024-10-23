@@ -1,4 +1,6 @@
-## Hi there 👋
+Hello my name ia Arnav!
+I am learning Programming in Python 1
+My e-mail is arnavgehlot2005@gmail.com
 
 <!--
 **agehlo17/agehlo17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
