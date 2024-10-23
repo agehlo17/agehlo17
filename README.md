@@ -1,4 +1,4 @@
-Hello my name ia Arnav!
+Hello my name is Arnav!
 I am learning Programming in Python 1
 My e-mail is arnavgehlot2005@gmail.com
 
